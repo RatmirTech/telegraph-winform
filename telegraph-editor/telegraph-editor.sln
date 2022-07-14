@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telegraph-editor", "telegraph-editor\telegraph-editor.csproj", "{F6608AFD-AC5A-4707-986D-71EF4AECFBB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6608AFD-AC5A-4707-986D-71EF4AECFBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6608AFD-AC5A-4707-986D-71EF4AECFBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6608AFD-AC5A-4707-986D-71EF4AECFBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6608AFD-AC5A-4707-986D-71EF4AECFBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6386FC-D372-428D-B745-A08C51006E5B}
+	EndGlobalSection
+EndGlobal
