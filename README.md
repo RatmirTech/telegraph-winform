@@ -1,5 +1,5 @@
 
-# Telegra.ph editor on winform (.ner core 6()
+# Telegra.ph editor on winform (.ner core 6)
 
 Hi, it's program - editor to telegra.ph.
 
